@@ -10,8 +10,8 @@ This project simulates the end-to-end data analytics workflow of cleaning and tr
 
 1. **Clone the repository**
    ```bash
-   git clone 
-   cd
+   git clone https://github.com/wmsimien/customer_shopping_behavior_project.git
+   cd customer_shopping_behavior_project
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
@@ -44,4 +44,4 @@ This project simulates the end-to-end data analytics workflow of cleaning and tr
 ## 📧 Contact
 
 - **Name:** Wanda M Avery
-- **LinkedIn:** [Profile Link]
+- **LinkedIn:** www.linkedin.com/in/wanda-simien-avery-48588a1bb
